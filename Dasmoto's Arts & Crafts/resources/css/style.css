@@ -1,0 +1,121 @@
+html {
+  font-family: Rockwell;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: dodgerblue;
+}
+#home {
+  background-image: url("../images/brushes.jpg");
+  background-size: 1050px;
+}
+#brushes {
+  background-image: url("../images/brushes-background.jpg");
+  background-size: 1250px;
+#frames
+}
+#frames {
+  background-image: url("../images/frame.jpg");
+  background-size: 1100px;
+}
+#paint {
+  background-image: url("../images/paint-tube.jpg");
+  background-size: 1100px;
+}
+#headtitle {
+  color:black;
+  font-size: 50px;
+}
+#slogan {
+  font-size: 20px;
+}
+#quote {
+  font-size: 30px;
+}
+.about {
+  text-transform: uppercase;
+}
+.contact {
+  text-transform: uppercase;
+}
+
+th {
+  border: 3px solid black;
+}
+
+table {
+  text-align: center;
+  margin: 20px auto;
+}
+
+td {
+  border: 3px solid black;
+  width: 300px;
+}
+
+.tabletitle {
+  font-size: 50px;
+  padding: 15px;
+  color: black;
+
+
+}
+.tabletitle2 {
+  font-size: 24px;
+  padding: 15px;
+  text-transform: uppercase;
+  color: black;
+}
+
+h3 {
+  font-size: 20px;
+  padding: 15px;
+  text-transform: uppercase;
+  text-align: left;
+  margin-left: 20px;
+  font-weight: 500;
+  line-height: 2.7;
+  letter-spacing: 0.8px;
+  color: black;
+}
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+  height: 800px;
+}
+.left {
+  width: 150px;
+}
+.right {
+  width: 150px;
+}
+.finnish {
+  font-size: 50px;
+}
+.frametitle {
+  text-align:center;
+  font-size: 50px;
+  padding-top: 100px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 120px;
+}
+.frametext {
+  text-align:center;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 30px;
+  padding-left: 120px;
+}
+.links {
+  font-size: 50px;
+}
